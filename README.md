@@ -1,10 +1,8 @@
-# JState-json-download-
-this is how to use JState basic 81 and every other version (will update once there are new versions)
-(please do not use this for anything serious it will not work)
+this is how to use JState basic 82
 
 Steps to get started:
 
-- download the version you want from here, just copy+paste the code in the version in a .py file 
+- download the version you want from here, just copy+paste the code in the version in a .py file
 
 - make a new json file
 
